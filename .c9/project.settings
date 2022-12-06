@@ -1,9 +1,15 @@
 {
+    "ace": {
+        "@tabSize": 2
+    },
     "extensions": {
         "@editor.acceptSuggestionOnEnter": "on",
         "@editor.snippetSuggestions": "top",
         "@editor.suggest.preview": true,
         "@editor.suggest.showMethods": true
+    },
+    "instance": {
+        "@automaticShutdown": "never"
     },
     "language": {
         "tern_defs": {
